@@ -2,7 +2,7 @@
 
 A Chrome extension that adds [ChatGPT](https://chat.openai.com) to every text box on the internet! Use it to write tweets, revise emails, fix coding bugs, or whatever else you need, all without leaving the site you're on. Includes a plugin system for greater control over ChatGPT behavior and ability to interact with 3rd party APIs.
 
-![](https://i.imgur.com/CPMOyG7.gif)
+![]
 
 ## Install
 
